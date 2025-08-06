@@ -1,0 +1,81 @@
+2025-08-01 12:34:07,375 - WARNING - From D:\BinomoAIModel\binomo_env\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-08-01 12:34:40,264 - WARNING - python-dotenv could not parse statement starting at line 1
+2025-08-01 12:34:40,266 - WARNING - python-dotenv could not parse statement starting at line 2
+2025-08-01 12:34:40,267 - WARNING - python-dotenv could not parse statement starting at line 3
+2025-08-01 12:34:40,267 - WARNING - python-dotenv could not parse statement starting at line 4
+2025-08-02 14:48:53,406 - WARNING - From D:\BinomoAIModel\binomo_env\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-08-02 14:49:23,559 - WARNING - python-dotenv could not parse statement starting at line 1
+2025-08-02 14:49:23,560 - WARNING - python-dotenv could not parse statement starting at line 2
+2025-08-02 14:49:23,561 - WARNING - python-dotenv could not parse statement starting at line 3
+2025-08-02 14:49:23,561 - WARNING - python-dotenv could not parse statement starting at line 4
+2025-08-02 14:49:37,082 - WARNING - python-dotenv could not parse statement starting at line 1
+2025-08-02 14:49:37,083 - WARNING - python-dotenv could not parse statement starting at line 2
+2025-08-02 14:49:37,083 - WARNING - python-dotenv could not parse statement starting at line 3
+2025-08-02 14:49:37,084 - WARNING - python-dotenv could not parse statement starting at line 4
+2025-08-02 14:49:53,114 - WARNING - python-dotenv could not parse statement starting at line 1
+2025-08-02 14:49:53,114 - WARNING - python-dotenv could not parse statement starting at line 2
+2025-08-02 14:49:53,115 - WARNING - python-dotenv could not parse statement starting at line 3
+2025-08-02 14:49:53,116 - WARNING - python-dotenv could not parse statement starting at line 4
+2025-08-02 15:09:41,011 - WARNING - From D:\BinomoAIModel\binomo_env\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-08-02 15:09:59,157 - WARNING - python-dotenv could not parse statement starting at line 1
+2025-08-02 15:09:59,159 - WARNING - python-dotenv could not parse statement starting at line 2
+2025-08-02 15:09:59,159 - WARNING - python-dotenv could not parse statement starting at line 3
+2025-08-02 15:09:59,161 - WARNING - python-dotenv could not parse statement starting at line 4
+2025-08-02 15:44:26,251 - WARNING - From D:\BinomoAIModel\binomo_env\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-08-02 15:44:44,831 - WARNING - python-dotenv could not parse statement starting at line 1
+2025-08-02 15:44:44,833 - WARNING - python-dotenv could not parse statement starting at line 2
+2025-08-02 15:44:44,837 - WARNING - python-dotenv could not parse statement starting at line 3
+2025-08-02 15:54:16,660 - WARNING - From D:\BinomoAIModel\binomo_env\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-08-02 16:52:55,150 - WARNING - From D:\BinomoAIModel\binomo_env\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-08-02 17:27:51,163 - INFO - ===== APPLICATION START =====
+2025-08-02 17:27:54,222 - WARNING - From D:\BinomoAIModel\binomo_env\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-08-02 17:28:19,614 - INFO - ===== APPLICATION START =====
+2025-08-02 17:28:19,674 - INFO - Stored hash: 4c03c24b0fa07b6ac6c597aa845fb32ef3c1ec379d5679e1e0c7ac41f4b4fd4d
+2025-08-02 17:28:19,725 - INFO - Input hash: b1a0af36b45b4aa831a2f0273a990b3b146dc21287888a8848ff3db1d2480f53
+2025-08-02 17:28:19,737 - WARNING - Incorrect password attempt
+2025-08-02 17:28:43,067 - INFO - ===== APPLICATION START =====
+2025-08-02 17:28:43,074 - INFO - Stored hash: 4c03c24b0fa07b6ac6c597aa845fb32ef3c1ec379d5679e1e0c7ac41f4b4fd4d
+2025-08-02 17:28:43,083 - INFO - Input hash: b1a0af36b45b4aa831a2f0273a990b3b146dc21287888a8848ff3db1d2480f53
+2025-08-02 17:28:43,085 - WARNING - Incorrect password attempt
+2025-08-02 17:28:57,556 - INFO - ===== APPLICATION START =====
+2025-08-02 17:28:57,574 - INFO - Stored hash: 4c03c24b0fa07b6ac6c597aa845fb32ef3c1ec379d5679e1e0c7ac41f4b4fd4d
+2025-08-02 17:28:57,584 - INFO - Input hash: 8ac2855ea0241069de365c1563abbe7c79525e90f7c6c9ba6d77afbe09eab691
+2025-08-02 17:28:57,619 - WARNING - Incorrect password attempt
+2025-08-02 17:29:09,856 - INFO - ===== APPLICATION START =====
+2025-08-02 17:29:28,479 - INFO - ===== APPLICATION START =====
+2025-08-02 17:29:28,487 - INFO - Stored hash: 4c03c24b0fa07b6ac6c597aa845fb32ef3c1ec379d5679e1e0c7ac41f4b4fd4d
+2025-08-02 17:29:28,498 - INFO - Input hash: b1a0af36b45b4aa831a2f0273a990b3b146dc21287888a8848ff3db1d2480f53
+2025-08-02 17:29:28,513 - WARNING - Incorrect password attempt
+2025-08-02 17:58:53,218 - INFO - ===== APPLICATION START =====
+2025-08-02 17:58:53,242 - INFO - Stored hash: 4c03c24b0fa07b6ac6c597aa845fb32ef3c1ec379d5679e1e0c7ac41f4b4fd4d
+2025-08-02 17:58:53,299 - INFO - Input hash: 33abaa65c6fb5324b755330a2cf3e4f35cfb98422d4f3e6cb9df8595c8f6b146
+2025-08-02 17:58:53,308 - WARNING - Incorrect password attempt
+2025-08-02 18:06:50,080 - INFO - ===== APPLICATION START =====
+2025-08-02 18:06:50,170 - INFO - Stored hash: 4c03c24b0fa07b6ac6c597aa845fb32ef3c1ec379d5679e1e0c7ac41f4b4fd4d
+2025-08-02 18:06:50,178 - INFO - Input hash: b1a0af36b45b4aa831a2f0273a990b3b146dc21287888a8848ff3db1d2480f53
+2025-08-02 18:06:50,184 - WARNING - Incorrect password attempt
+2025-08-03 00:09:41,249 - INFO - ===== APPLICATION START =====
+2025-08-03 00:09:43,253 - WARNING - From D:\BinomoAIModel\binomo_env\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-08-03 00:10:17,015 - INFO - ===== APPLICATION START =====
+2025-08-03 00:10:17,026 - INFO - Stored hash: 4c03c24b0fa07b6ac6c597aa845fb32ef3c1ec379d5679e1e0c7ac41f4b4fd4d
+2025-08-03 00:10:17,065 - INFO - Input hash: b1a0af36b45b4aa831a2f0273a990b3b146dc21287888a8848ff3db1d2480f53
+2025-08-03 00:10:17,098 - WARNING - Incorrect password attempt
+2025-08-03 00:10:35,971 - INFO - ===== APPLICATION START =====
+2025-08-03 00:10:35,978 - INFO - Stored hash: 4c03c24b0fa07b6ac6c597aa845fb32ef3c1ec379d5679e1e0c7ac41f4b4fd4d
+2025-08-03 00:10:35,981 - INFO - Input hash: 33abaa65c6fb5324b755330a2cf3e4f35cfb98422d4f3e6cb9df8595c8f6b146
+2025-08-03 00:10:35,988 - WARNING - Incorrect password attempt
+2025-08-03 00:31:04,068 - INFO - ===== APPLICATION START =====
+2025-08-03 00:31:07,044 - WARNING - From D:\BinomoAIModel\binomo_env\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-08-03 00:34:35,294 - INFO - ===== APPLICATION START =====
+2025-08-03 00:34:35,465 - INFO - Stored hash: 34f834ecf1e7dbb527ef69b02cc1035a5a61b09ec7a30630e7cda8fc7b971659
+2025-08-03 00:34:35,584 - INFO - Input hash: b1a0af36b45b4aa831a2f0273a990b3b146dc21287888a8848ff3db1d2480f53
+2025-08-03 00:34:35,587 - WARNING - Incorrect password attempt
