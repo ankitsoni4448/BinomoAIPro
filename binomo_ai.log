@@ -79,3 +79,54 @@
 2025-08-03 00:34:35,465 - INFO - Stored hash: 34f834ecf1e7dbb527ef69b02cc1035a5a61b09ec7a30630e7cda8fc7b971659
 2025-08-03 00:34:35,584 - INFO - Input hash: b1a0af36b45b4aa831a2f0273a990b3b146dc21287888a8848ff3db1d2480f53
 2025-08-03 00:34:35,587 - WARNING - Incorrect password attempt
+2025-08-07 00:10:17,535 - INFO - ===== APPLICATION START =====
+2025-08-07 00:10:17,586 - WARNING - \u26a0\ufe0f Model loading failed: [Errno 2] Unable to synchronously open file (unable to open file: name = 'models/lstm_v1.h5', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0) - Initializing new models
+2025-08-07 00:10:21,686 - WARNING - From D:\BinomoAIModel\binomo_env\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-08-08 16:02:11,580 - INFO - ===== APPLICATION START =====
+2025-08-08 16:02:14,352 - WARNING - \u26a0\ufe0f Model loading failed: [Errno 2] Unable to synchronously open file (unable to open file: name = 'models/lstm_v1.h5', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0) - Initializing new models
+2025-08-08 16:02:15,068 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-08-08 16:02:15,069 - INFO - Added job "BinomoAITrader.retrain_model" to job store "default"
+2025-08-08 16:02:15,070 - INFO - Scheduler started
+2025-08-08 16:02:16,336 - WARNING - Model warmup failed: need to call fit or load_model beforehand
+2025-08-08 16:02:17,399 - WARNING - From D:\BinomoAIModel\binomo_env\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-08-10 11:33:31,529 - INFO - ===== APPLICATION START =====
+2025-08-10 11:33:35,926 - WARNING - \u26a0\ufe0f Model loading failed: [Errno 2] Unable to synchronously open file (unable to open file: name = 'models/lstm_v1.h5', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0) - Initializing new models
+2025-08-10 11:33:37,870 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-08-10 11:33:37,872 - INFO - Added job "BinomoAITrader.retrain_model" to job store "default"
+2025-08-10 11:33:37,873 - INFO - Scheduler started
+2025-08-10 11:33:41,514 - WARNING - Model warmup failed: need to call fit or load_model beforehand
+2025-08-10 11:41:22,403 - INFO - ===== APPLICATION START =====
+2025-08-10 11:41:25,508 - WARNING - \u26a0\ufe0f Model loading failed: [Errno 2] Unable to synchronously open file (unable to open file: name = 'models/lstm_v1.h5', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0) - Initializing new models
+2025-08-10 11:41:26,301 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-08-10 11:41:26,302 - INFO - Added job "BinomoAITrader.retrain_model" to job store "default"
+2025-08-10 11:41:26,303 - INFO - Scheduler started
+2025-08-10 11:41:28,237 - WARNING - Model warmup failed: need to call fit or load_model beforehand
+2025-08-10 11:41:29,872 - WARNING - From D:\BinomoAIModel\binomo_env\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-08-10 11:44:33,320 - INFO - ===== APPLICATION START =====
+2025-08-10 11:44:36,185 - WARNING - \u26a0\ufe0f Model loading failed: [Errno 2] Unable to synchronously open file (unable to open file: name = 'models/lstm_v1.h5', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0) - Initializing new models
+2025-08-10 11:44:37,991 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-08-10 11:44:37,993 - INFO - Added job "BinomoAITrader.retrain_model" to job store "default"
+2025-08-10 11:44:37,993 - INFO - Scheduler started
+2025-08-10 11:44:40,537 - WARNING - Model warmup failed: need to call fit or load_model beforehand
+2025-08-10 11:44:42,136 - INFO - \u2705 Fetched 618 Binance candles with enhanced features
+2025-08-10 11:44:42,151 - ERROR - \U0001f6a8 Prediction error: This MinMaxScaler instance is not fitted yet. Call 'fit' with appropriate arguments before using this estimator.
+2025-08-10 11:44:44,179 - WARNING - From D:\BinomoAIModel\binomo_env\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-08-10 12:39:44,458 - INFO - ===== APPLICATION START =====
+2025-08-10 12:39:46,740 - WARNING - \u26a0\ufe0f Model loading failed: [Errno 2] Unable to synchronously open file (unable to open file: name = 'models/lstm_v1.h5', errno = 2, error message = 'No such file or directory', flags = 0, o_flags = 0) - Initializing new models
+2025-08-10 12:40:05,135 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-08-10 12:40:05,137 - INFO - Added job "BinomoAITrader.retrain_model" to job store "default"
+2025-08-10 12:40:05,137 - INFO - Scheduler started
+2025-08-10 12:40:07,293 - WARNING - Model warmup failed: need to call fit or load_model beforehand
+2025-08-10 12:40:07,294 - INFO - Initializing scaler with dummy data
+2025-08-10 12:40:07,316 - ERROR - \U0001f6a8 Metrics error: no such column: trade_history.interval
+2025-08-10 12:40:07,811 - WARNING - From D:\BinomoAIModel\binomo_env\lib\site-packages\keras\src\backend\common\global_state.py:82: The name tf.reset_default_graph is deprecated. Please use tf.compat.v1.reset_default_graph instead.
+
+2025-08-10 12:40:29,710 - INFO - ===== APPLICATION START =====
+2025-08-10 12:40:29,729 - ERROR - \U0001f6a8 Metrics error: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 7332 and this is thread id 5476.
+2025-08-10 12:40:32,297 - INFO - \u2705 Fetched 618 Binance candles (90S interval)
+2025-08-10 12:40:33,643 - ERROR - \U0001f6a8 Prediction error: need to call fit or load_model beforehand
+2025-08-10 12:40:33,644 - ERROR - \U0001f6a8 Save prediction error: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 7332 and this is thread id 5476.
